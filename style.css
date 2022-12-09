@@ -1,0 +1,33 @@
+h1{
+    color:#ec4141;
+
+}
+li{color: rgb(82, 10, 130); }
+
+a,ol{
+
+    color: #194c01;
+    margin: 10px;
+  
+   
+
+}
+h3{
+    color: rgb(4, 147, 147);
+    font-size: large;
+}
+body{
+    text-align:center;
+}
+ 
+ h2{
+    color:#793704;
+ }
+ li{ 
+    list-style-position: inside
+
+ }
+ .renk{
+    color:#6D67E4 ;
+
+ }
